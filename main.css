@@ -1,0 +1,32 @@
+* { padding: 0; margin: 0; font-family: arial; f}
+
+.cf	{
+	clear: both;
+}
+body {background: #eee;}
+
+.container { max-width: 775px; margin: 30px auto; border: 2px solid black; background: white; padding: 10px; }
+
+.container .center-img { text-align: center; }
+
+.container .Name { color: blue; }
+
+.container .readmore{color:	#8B008B;}
+
+.container .block1 { border-bottom: 2px solid black; margin: 20px; }
+.container .block1 .block1-left { float: left;width: 300px; }
+.container .block1 .block1-right { float: right; width: 300px;}
+.container .block1 .block1-p { margin-bottom: 10px }
+
+
+.container .block2 { border-bottom: 2px solid black; margin: 20px; }
+.container .block2 .block2-left { float: left;width: 300px;margin: 10px;}
+.container .block2 .block2-right { float: right;width: 300px; }
+.container .block2 .block2-p { margin-bottom: 10px }
+
+
+.container .block3 { border-bottom: 2px solid black; margin: 20px; }
+.container .block3 .block3-left { float: left; width: 225px;padding: 5px;}
+.container .block3 .block3-center { float: left;width: 225px; padding: 5px; }
+.container .block3 .block3-right { float: left;width: 225px; padding: 5px;}
+.container .block3 .block3-p { margin-bottom: 10px }
